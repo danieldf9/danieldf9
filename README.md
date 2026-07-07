@@ -34,7 +34,7 @@ Playwright tests pair a deterministic locator with a semantic *intent*. When a l
 
 `TypeScript` `Playwright` `LLM` `SQLite` `GitHub Actions`
 
-### 🤝 [Francis Legacy — AI assistant platform](https://github.com/danieldf9/francislegacy)
+### 🤝 [Francis Legacy — AI assistant platform](https://github.com/danieldf9/francis-legacy)
 AI-powered assistants for QA, health, and finance. Next.js + TypeScript + Firebase, PWA-ready.
 
 `Next.js` `TypeScript` `Firebase` `Tailwind CSS`
